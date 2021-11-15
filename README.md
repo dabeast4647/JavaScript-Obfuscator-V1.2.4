@@ -121,11 +121,3 @@ This extension use [JavaScript obfuscator](https://github.com/javascript-obfusca
 * Update gif in Usage
 
 #
-
-## **Github & Issues**
-
-Feel free to modify/change or create a new better version using this [Repo](https://github.com/SoftHeroes/JSObfuscator). If you find any issues you can report [Here](https://github.com/SoftHeroes/JSObfuscator/issues).
-
-__*`Write a review if this plugin helps you out anyhow`*__
-
-**Enjoy! 🤗**
